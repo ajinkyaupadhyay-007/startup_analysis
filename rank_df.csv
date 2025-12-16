@@ -1,0 +1,33 @@
+rank,company,domain,round,amount_(usd),country,probability_score
+1,Genspark,https://genspark.ai,Series B,275000000,USA,65
+2,Majestic Labs,https://majestic-labs.ai,Series A,100000000,Israel,60
+3,AirOps,https://airops.com,Series B,40000000,USA,55
+4,Iambic,https://iambic.ai,funding,100000000,United States,50
+5,Stuut Technologies,https://stout.ai,Series A,29500000,USA,50
+6,Wispr,https://wisprflow.ai,Series A extension,25000000,USA,50
+7,Tailor,https://tailor.tech,Series A,37000000,USA,50
+8,Digitail,https://digitail.com,Series B,23000000,Canada,50
+9,Gamma,https://gamma.app,Series B,68000000,United States,45
+10,CoLab,https://colabsoftware.com,Series C,72000000,Canada,45
+11,NestAI,https://nestai.com,,110000000,Finland,45
+12,Point One Navigation,https://pointonenav.com,Series C,35000000,United States,45
+13,Neros,https://neros.tech,Series B,75000000,USA,45
+14,Perelel,https://perelelhealth.com,Growth Funding,27000000,United States,40
+15,Enko Capital,https://enkocapital.com,first close,100000000,United Kingdom,40
+16,1mind,https://1mind.com,Series A,40000000,USA,40
+17,Kraken,https://kraken.com,Funding,800000000,United States,40
+18,Cassidy Bio,https://cassidybio.com,Seed funding,8000000,Israel,40
+19,Redrob,https://redrob.io,Series A,10000000,USA,35
+20,Norm Ai,https://norm.ai,,50000000,USA,35
+21,Lighthouse Canton,https://lighthouse-canton.com,strategic funding,40000000,Singapore,30
+22,Addi,https://co.addi.com,Credit,71000000,Colombia,30
+23,Spectral Compute,https://spectralcompute.com,Seed,6000000,UK,30
+24,Twenty,https://twenty.io,Series A,,USA,30
+25,QSimulate,https://qsimulate.com,Seed funding,11000000,USA,30
+26,Voio,https://voio.com,Seed funding,8600000,USA,30
+27,TRIP,https://us.drink-trip.com,,40000000,USA,25
+28,BITE Data,https://bitedata.io,Seed funding,2500000,United States,25
+29,Cavela AI,https://cavela.com,,6600000,USA,20
+30,Gliding Deer,https://glidingdeer.com,,7000000,Israel,20
+31,Secure.com,https://secure.com,first funding,4500000,UAE,20
+32,Arkyn,https://arkyn.io,,4400000,Denmark,15
